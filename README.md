@@ -1,17 +1,12 @@
 <h2 align="left">Hi 👋! My name is Gabriel</h2>
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GahCunha&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+<img align="right" height="200" src="https://static.tumblr.com/a557ac002c5e8acb57a5252c3024a9e2/y6vcizc/qPFonqr9b/tumblr_static_5ou3nu6bl4g8sgc4g00kk0080.gif"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GahCunha&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" height="200" src="https://static.tumblr.com/a557ac002c5e8acb57a5252c3024a9e2/y6vcizc/qPFonqr9b/tumblr_static_5ou3nu6bl4g8sgc4g00kk0080.gif"  />
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
